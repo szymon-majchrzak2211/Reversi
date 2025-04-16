@@ -1,10 +1,10 @@
 ---
 
-# Tytuł Projektu: [Nazwa, np. „Interaktywne Warcaby w języku C”]
+# Tytuł Projektu: [Reversi]
 
 🇵🇱 Polski | [🇬🇧 English](README.md)
 
-Opis projektu w języku polskim.
+Szymon Majchrzak gr.9, Filip Żywicki gr.7.
 
 ## Opis projektu:
 Projekt aplikacji interaktywnej w języku C, wykorzystującej programowanie niskopoziomowe, z modularną strukturą kodu, dynamicznym zarządzaniem pamięcią, kompleksową obsługą błędów oraz graficznym interfejsem użytkownika. Projekt spełnia wymagania zaliczenia na ocenę 5.0, w tym operacje na plikach, efektywne użycie wskaźników i struktur danych oraz intuicyjną obsługę graficzną.
